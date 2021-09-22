@@ -1,0 +1,20 @@
+
+.container
+{
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    padding: 4px;
+    background-color: white;
+    border:1px solid black;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+button:hover{
+    background-color: tomato;
+}
+#error{
+    color: red;
+}
